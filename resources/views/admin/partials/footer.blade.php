@@ -1,0 +1,1 @@
+ <footer class="footer text-right">Copyright © {{date('Y')}} <a href="{{config('blog.copyright_link')}}" target="_blank">{{config('blog.copyright_name')}}</a> Production </footer>

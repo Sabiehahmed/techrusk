@@ -1,0 +1,18 @@
+
+
+.language-dropdown , 
+.language-dropdown a,
+#date-time, 
+#weather,
+.searchNlogin li,
+.navbar,
+.user-panel a, 
+nav li a 
+{
+ 	color: #FFF;
+}
+
+.navbar
+{
+	background: #0392D8; 
+}
